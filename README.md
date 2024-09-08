@@ -1,8 +1,6 @@
 Finance Analysis Project
 -Using NumPy, Matplotlib, Pandas, and Seaborn
 
-Sure! Here's a more polished and concise version of your description:
-
 Data Transformation and Cleaning
 
 Utilized pandas drop function to remove unnecessary columns and employed regex to filter out null/blank values.
