@@ -1,32 +1,17 @@
 Finance Analysis Project
 -Using NumPy, Matplotlib, Pandas, and Seaborn
 
-Extract
-Import CSV file
+Sure! Here's a more polished and concise version of your description:
 
+Data Transformation and Cleaning
 
-Transform
-
-Data Cleaning
-Used NumPy drop function to remove unnecessary columns
-Use regex function to remove Null/ Blank Values.
-
-
+Utilized pandas drop function to remove unnecessary columns and employed regex to filter out null/blank values.
 Data Visualization
-Used seaborn to display a bar chart counting the number of male/females investing.
-results: Males are higher investors vs females
 
-Used seaborn to create a bar chart to discover the average age of investors.
-results between the age of 21- 35. Age 27 was highest investor.
+Created a bar chart using Seaborn to visualize the number of male vs. female investors, revealing that males have a higher investment rate.
+Used Seaborn to generate a bar chart displaying the average age of investors, with the majority between 21-35 years old and age 27 being the most prominent.
+Developed subplots (two bar charts) using Matplotlib and Seaborn to compare gender-based investments in both investment avenues and the stock market, with males leading in both categories.
+Created a point plot to analyze the median age of investors based on investment purposes: 27 years old for wealth creation, 29 years for saving for the future, and 30 years for returns.
+Data Load
 
-
-Use matplotlib & seaborn
-Create a subplot(two bar charts) to display the count of each genders investments in investment avenue or stock market.
-results: Males take the lead on the highest count of investments in investment avenue and stock market
-
-
-Used matplotlib & seaborn to create a point plot to discover the median age for investment purposes (wealth creation, saving for future purposes, and returns)
-Results: Median age for wealth creation 27 years old, Media age for savings for future purposes 29 years old, and Median age for returns is 30 years old.
-
-Load
-Load the data into the relevant GitHub repository.
+Uploaded the cleaned and visualized data to the appropriate GitHub repository.
